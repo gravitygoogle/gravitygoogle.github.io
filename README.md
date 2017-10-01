@@ -1,1 +1,0 @@
-# gravitygoogle.github.io
