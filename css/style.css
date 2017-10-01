@@ -1,0 +1,44 @@
+.title {
+	font-size: 40px;
+	font-family: 'proxima_nova_ltthin';
+	
+	text-align: center;
+}
+
+.text {
+	font-family: 'Proxima Nova';
+}
+
+.fancy {
+	font-family: 'Proxima Nova';
+	font-size: 50px;
+	
+	text-decoration: none;
+	
+	color: #36ff8c;
+	
+	border: 2px solid #36ff8c;
+	border-radius: 100px;
+	
+	padding: 5px 60px;
+	padding-bottom: 15px;
+	
+	transition-duration: 400ms;
+	
+}
+
+.fancy:hover {
+	background-color: #36ff8c;
+	color: #110c20;
+	
+	transition-duration: 400ms;
+	
+}
+
+body {
+	color: #36ff8c;
+}
+
+html {
+	background-color: #110c20;
+}
